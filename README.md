@@ -1,4 +1,4 @@
-# [Project: Logistic Shipment Analysis](https://huymtran0502.github.io/Logistic-Shipment-Analysis)
+# [Project: Logistic Shipment Analysis](https://huymtran0502.github.io/Logistic-Shipment-Analysis-)
 
 Feel free to explore each project folder for detailed READMEs, datasets, scripts, and visualizations.
 
