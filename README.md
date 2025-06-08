@@ -1,6 +1,4 @@
-# Logistic-Shipment-Analysis
-
-# [Project: Logistic Shipment Analysis: A Power BI dashboard analyzing logistics performance, including KPIs like delivery times, costs, and shipment trends](https://huymtran0502.github.io/Logistic-Shipment-Analysis)
+# [Project: Logistic Shipment Analysis - A Power BI dashboard analyzing logistics performance, including KPIs like delivery times, costs, and shipment trends](https://huymtran0502.github.io/Logistic-Shipment-Analysis)
 
 Feel free to explore each project folder for detailed READMEs, datasets, scripts, and visualizations.
 
