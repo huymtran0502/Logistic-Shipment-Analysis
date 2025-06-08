@@ -1,4 +1,4 @@
-# [Project: Logistic Shipment Analysis]
+# Project: Logistic Shipment Analysis
 
 **Overview**
 
