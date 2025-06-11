@@ -2,7 +2,7 @@
 
 ## **Overview:**
 
-* This project shows a Power BI dashboard designed to analyze logistics performance for a hypothetical company. The dashboard provides insights into key performance indicators (KPIs) such as delivery times, transportation costs, shipment volumes, and delay rates. The goal is to help stakeholders optimize logistics operations and reduce costs.
+* This project shows an analysis of logistics performance. The dashboard provides insights into key performance indicators (KPIs) such as delivery times, transportation costs, shipment volumes, and delay rates. The goal is to help stakeholders optimize logistics operations and reduce costs.
 
 ## **Objectives:**
 
